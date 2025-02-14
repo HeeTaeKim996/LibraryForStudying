@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|solutionrelative:my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\my\\expansionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|solutionrelative:my\\expansionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|solutionrelative:my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\my\\my.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|solutionrelative:my\\my.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "My",
+              "DocumentMoniker": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\My.csproj",
+              "RelativeDocumentMoniker": "My\\My.csproj",
+              "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\My.csproj",
+              "RelativeToolTip": "My\\My.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T03:37:23.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ExpansionMethod.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\ExpansionMethod.cs",
               "RelativeDocumentMoniker": "My\\ExpansionMethod.cs",
               "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\ExpansionMethod.cs",
               "RelativeToolTip": "My\\ExpansionMethod.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwE4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T03:23:29.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\Program.cs",
               "RelativeDocumentMoniker": "My\\Program.cs",
               "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\Program.cs",
               "RelativeToolTip": "My\\Program.cs",
-              "ViewState": "AgIAAPAAAAAAAAAAAADwvxgBAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T02:32:21.468Z",
               "EditorCaption": ""
