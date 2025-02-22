@@ -12,9 +12,7 @@ C:\Users\Heetae\source\repos\My\My\obj\Debug\net8.0\refint\My.dll
 C:\Users\Heetae\source\repos\My\My\obj\Debug\net8.0\My.pdb
 C:\Users\Heetae\source\repos\My\My\obj\Debug\net8.0\My.genruntimeconfig.cache
 C:\Users\Heetae\source\repos\My\My\obj\Debug\net8.0\ref\My.dll
-C:\Users\Heetae\Desktop\백업\My\My\bin\Debug\net8.0\My.exe
 C:\Users\Heetae\Desktop\백업\My\My\bin\Debug\net8.0\My.deps.json
-C:\Users\Heetae\Desktop\백업\My\My\bin\Debug\net8.0\My.runtimeconfig.json
 C:\Users\Heetae\Desktop\백업\My\My\bin\Debug\net8.0\My.dll
 C:\Users\Heetae\Desktop\백업\My\My\bin\Debug\net8.0\My.pdb
 C:\Users\Heetae\Desktop\백업\My\My\obj\Debug\net8.0\My.GeneratedMSBuildEditorConfig.editorconfig
@@ -24,5 +22,5 @@ C:\Users\Heetae\Desktop\백업\My\My\obj\Debug\net8.0\My.csproj.CoreCompileInput
 C:\Users\Heetae\Desktop\백업\My\My\obj\Debug\net8.0\My.dll
 C:\Users\Heetae\Desktop\백업\My\My\obj\Debug\net8.0\refint\My.dll
 C:\Users\Heetae\Desktop\백업\My\My\obj\Debug\net8.0\My.pdb
-C:\Users\Heetae\Desktop\백업\My\My\obj\Debug\net8.0\My.genruntimeconfig.cache
 C:\Users\Heetae\Desktop\백업\My\My\obj\Debug\net8.0\ref\My.dll
+C:\Users\Heetae\Desktop\백업\My\My\obj\Debug\net8.0\My.sourcelink.json

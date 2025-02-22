@@ -4,7 +4,6 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
-using hellWorld;
 
 namespace My
 {
@@ -247,6 +246,31 @@ namespace My
             foreach (var kvp in dictionary)
             {
                 yield return new MyGrouping<TCoin, TSource>(kvp.Key, kvp.Value);
+            }
+        }
+
+        public static T MyAggregate<T>(this IEnumerable<T> source, Func<T, T, T> function)
+        {
+            #region 공부정리
+            // 작성기준 using 구문이 아직 생소한데, IEnumerator는 IDisposable 인터페이스를 상속했기 때문에,  IDisposable을 상속한 클래스를 인스턴스할 때에는 using을 사용해서 구문 처리시 Dispose 가 발동하도록,
+            // using을 사용하는 게 관례라 함( From 지피티 )
+            // 그런데 매서드가 모두 실행되면, Dispose가 자동으로 실행되지 않나. 매서드 내에 생성한 지역변수? 와 비슷한 개념으로 인스턴스된 것일 텐데
+            #endregion
+            using (IEnumerator<T> enumerator = source.GetEnumerator())
+            {
+                if (!enumerator.MoveNext())
+                {
+                    throw new ArgumentNullException(nameof(source));
+                }
+
+                T returnT = enumerator.Current;
+
+                while (enumerator.MoveNext())
+                {
+                    returnT = function(returnT, enumerator.Current);
+                }
+
+                return returnT;
             }
         }
     }

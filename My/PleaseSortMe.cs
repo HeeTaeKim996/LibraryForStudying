@@ -3,7 +3,7 @@ using System.Linq;
 using System.Numerics;
 using System.Collections;
 
-namespace hellWorld
+namespace My
 {
     public class MyGrouping<TKey, TElement> : IGrouping<TKey, TElement>
     {
@@ -21,17 +21,8 @@ namespace hellWorld
         // 위 매서드가 무슨 역할인지는 모르겠고.. 일단 IGrouping을 구현하기 위해, 매서드를 상속해야 해서 입력함
     }
 
-    internal class My
+    public class SortMe
     {
-        static void Main(string[] args)
-        {
-            int[] a = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            Sort_HeapSort(a, (a, b) => a.CompareTo(b));
-            foreach(int i in a)
-            {
-                Console.WriteLine(i);
-            }
-        }
         /// <summary>
         /// 두 실수의 최대공약수를 반환하는 함수
         /// </summary>

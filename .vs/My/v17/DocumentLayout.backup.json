@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|solutionrelative:my\\expansionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|solutionrelative:my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\my\\mypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|solutionrelative:my\\mypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\my\\pleasesortme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|solutionrelative:my\\pleasesortme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E494291-B1A1-4717-93CF-B6512C86B793}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E494291-B1A1-4717-93CF-B6512C86B793}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E494291-B1A1-4717-93CF-B6512C86B793}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\consoleapp\\consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7E494291-B1A1-4717-93CF-B6512C86B793}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|c:\\users\\heetae\\desktop\\\uBC31\uC5C5\\my\\my\\my.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F0D9F0EC-CD31-478E-AE92-9B517859EE9F}|My\\My.csproj|solutionrelative:my\\my.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T02:01:01.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:58:59.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyPath.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\MyPath.cs",
+              "RelativeDocumentMoniker": "My\\MyPath.cs",
+              "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\MyPath.cs",
+              "RelativeToolTip": "My\\MyPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:40:26.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "My",
+              "DocumentMoniker": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\My.csproj",
+              "RelativeDocumentMoniker": "My\\My.csproj",
+              "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\My.csproj",
+              "RelativeToolTip": "My\\My.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T03:37:23.962Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,23 +90,22 @@
               "RelativeDocumentMoniker": "My\\ExpansionMethod.cs",
               "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\ExpansionMethod.cs",
               "RelativeToolTip": "My\\ExpansionMethod.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwE4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAwAsBAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T03:23:29.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\Program.cs",
-              "RelativeDocumentMoniker": "My\\Program.cs",
-              "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\Program.cs",
-              "RelativeToolTip": "My\\Program.cs",
-              "ViewState": "AgIAAPAAAAAAAAAAAADwvxgBAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PleaseSortMe.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\PleaseSortMe.cs",
+              "RelativeDocumentMoniker": "My\\PleaseSortMe.cs",
+              "ToolTip": "C:\\Users\\Heetae\\Desktop\\\uBC31\uC5C5\\My\\My\\PleaseSortMe.cs",
+              "RelativeToolTip": "My\\PleaseSortMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T02:32:21.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T02:32:21.468Z"
             }
           ]
         }
